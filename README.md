@@ -13,7 +13,7 @@ Debido a esas malas experiencias y problemas personales eh tenido ciertos bajone
 
 Espero poder cursar esta materia de la mejor manera posible, aprendiendo y disfrutando tambien del mismo proceso.
 
-![Mi Foto](MiFoto.jpg)
+![Mi Foto](./assets/MiFoto.jpg.jpeg)
 
 ## Mis Gustos:
 * Me gusta el futbol 
