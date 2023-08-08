@@ -1,38 +1,28 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+# FEDERICO BREME
 
-```wollok
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Hola, me llamo **Federico**, tengo 20 años y soy de la localidad de **Hurlingham** cerca de la universidad.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+Actualmente estoy cursando la carrera de **Tecnicatura en Programacion**, este ya es mi segundo año en la universidad y, por ende, dentro de la misma tecnicatura.
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-* [Guía Rápida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Anteriormente eh tenido malas experiencias academicas en otras institciones, las cuales me hiciseron **replantearme** ciertas cosas hasta llegar a la conclusion de cambiar la carrera (anteriormente hacia la Ingenieria en Informatica) y de institucion, llegando a la **Universidad Nacional de Hurlingham**.
 
-### Presentacion Personal
+Debido a esas malas experiencias y problemas personales eh tenido ciertos bajones y hasta incluso pensar en dejar de estudiar, por suerte pude dejar todo eso de lado y me enfoque en lo que en verdad me gustaba y queria para mi mismo.
 
-Me llamo ...
+Espero poder cursar esta materia de la mejor manera posible, aprendiendo y disfrutando tambien del mismo proceso.
 
-Me gusta ...
+![Mi Foto](MiFoto.jpg)
 
-Me dedico a / Trabajo de ...
+## Mis Gustos:
+* Me gusta el futbol 
+* La musica (en general) 
+* Los juegos digitales
+* Hacer deportes
 
-Les dejo una imagen mía 
+Actuamente no estoy trabajando, aunque ando en busqueda de uno para poder mantenerme a mi mismo :grin:.
 
-![subir archivo de imagen](imagen.jpg)
+  
+
+
